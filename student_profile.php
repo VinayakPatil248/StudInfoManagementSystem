@@ -5,7 +5,7 @@
 ?>
 <html lang = "en">
 	<head>
-		<title>Student File Management System</title>
+		<title>MGM Students Management System</title>
 		<meta charset = "utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel = "stylesheet" type = "text/css" href = "admin/css/bootstrap.css" />
@@ -15,7 +15,7 @@
 <body>
 	<nav class="navbar navbar-default navbar-fixed-top" style="background-color:blue;">
 		<div class="container-fluid">
-			<label class="navbar-brand" id="title">MGM Student Info System</label>
+			<a href="index.php"><label class="navbar-brand" id="title">MGM Students Information System</label></a>
 		</div>
 	</nav>
 	<div class="col-md-4">
@@ -76,9 +76,6 @@
 				</table>
 			</div>
 		</div>
-	</div>
-	<div id = "footer">
-		<label class = "footer-title">&copy; Advance Learner Project <?php echo date("Y", strtotime("+8 HOURS"))?></label>
 	</div>
 	<div class="modal fade" id="modal_confirm" aria-hidden="true">
 		<div class="modal-dialog modal-dialog-centered">
