@@ -1,0 +1,17 @@
+# StudInfoManagementSystem
+MGM STUDENT Information MANAGEMENT SYSTEM IN PHP
+
+**STUDENT LOGIN DETAILS**
+User ID  - 1601160066
+Password - 1234
+
+**ADMIN LOGIN DETAILS**
+Username - admin
+Password - admin
+
+**Developed By vinayak Sanjay patil**
+
+DON'T FORGET TO CREATE A DATABASE NAMING "db_sfms" AND IMPORT THE DATBASE SQL FILE (db_sfms.sql)
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+>> THE DATABASE FILE IS INSIDE "DATABASE" FOLDER!!
