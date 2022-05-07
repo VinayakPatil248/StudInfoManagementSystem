@@ -1,5 +1,6 @@
 <?php
-	$conn = mysqli_connect("localhost", "root", "", "db_sfms");
+	//$conn = mysqli_connect("localhost", "root", "", "db_sfms");
+	$conn = mysqli_connect("remotemysql.com", "2GkgZDqm63", "9keKuk5EHn", "2GkgZDqm63");
 	
 	if(!$conn){
 		die("Error: Failed to connect to database!");
