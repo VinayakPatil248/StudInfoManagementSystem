@@ -88,7 +88,9 @@
   <div class="centered">
   <img src="img_avatar.png" alt="Avatar" style="width:100%">
   <div class="middle">
-  <a href="index1.php"><div class="text">Student Login window</div></a>
+  <a href="index1.php"><div class="text">Student Login
+    
+  </div></a>
   </div>
   </div>
 </div>
